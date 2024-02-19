@@ -2,7 +2,7 @@
 
 # ⚾️ Togeball - 야구 직관 메이트 매칭 플랫폼
 
-<img src="/uploads/6dcb2dbf8e1efed220d0c5e307b3e6ba/togeball_logo1.png" width="500" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/9cd20836-3606-4d1d-ae37-9fefe7ef14e3" width="500" height="300">
 
 
 ## 목차
@@ -52,28 +52,27 @@
 ### 프론트엔드
 | TypeScript |    React   |  StyeldComponent   |  Zustand |
 | :--------: | :--------: | :------: | :-----: |
-|   <img src="/uploads/296ca86b204eac0daf04aad55a5e6b26/image.png" width="100" height="100">    |   <img src="/uploads/3f21f61ff5941103ebeb216c83c65607/image-1.png" width="100" height="100">    | <img src="/uploads/bc6ee5a8d68f33b8bd193abf623aa3bf/image-2.png" width="100" height="100"> | <img src="/uploads/4e3e91384015b03b8bf66ab093380af7/image-3.png" width="100" height="100"> |
+|   <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/c096ba85-55e7-4e47-a15d-ef29328b52fb" width="100" height="100">    |   <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/a6232c39-7558-4789-bd7a-259bc1d66232" width="100" height="100">    | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/262f23af-8c11-482f-8127-d19e787a9ff8" width="100" height="100"> | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/f07136c9-aa0f-4d00-9074-b76aeedc0bcc" width="100" height="100"> |
 
 ### 백엔드
 
 | SpringBoot |   MariaDB  |  MongoDB   |  Redis | RabbitMQ | 
 | :--------: | :--------: | :------: | :-----: | :--------: |
-|   <img src="/uploads/b4791806e1d8ca4a32c5f32cd89d0b65/image-4.png" width="100" height="100">    |   <img src="/uploads/296d4d790582241605ecb42ff06b15a8/image-5.png" width="100" height="100">    | <img src="/uploads/2fd08fc5e00ec03cd8caefee5452ba14/mog.png" width="100" height="100"> | <img src="/uploads/58867c6d0179bc526726ae7626d83fa8/image-9.png" width="100" height="100"> | <img src="/uploads/c5eccc59c9595aef959e6a69cfc653c6/image-10.png" width="100" height="100"> |
+|   <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/37d2c84b-d5c2-4fee-b932-eef560277026" width="100" height="100">    |   <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/cd2656ac-f4df-4d38-b135-02b4ebe6bb4d" width="100" height="100">    | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/04c61e4e-9f82-4160-907a-100756720a9f" width="100" height="100"> | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/c18b2bf1-4ed2-4fb8-8b96-6b5a769ab52e" width="100" height="100"> | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/46bb0613-b905-4a91-98da-09f7655f70f7" width="100" height="100"> |
 
 ### 인프라
 
 
 | Jenkins |   Docker  |  nginx   |  prometheus | Grafana | 
 | :--------: | :--------: | :------: | :-----: | :--------: |
-|   <img src="/uploads/777add1f8b2af7aea06f37755d9a8415/image-11.png" width="100" height="100">   | <img src="/uploads/e3a9d820b8d90e67b17fd830b98f9908/doc.png" width="100" height="100">    | <img src="/uploads/9627973f6e2be541052ef266c2bf8020/image-13.png" width="100" height="100"> | <img src="/uploads/7f43b163bf59e392b1214722252c86d3/image-14.png" width="100" height="100"> | <img src="/uploads/fed859911e53bde4872b8100670da8ae/image-15.png" width="100" height="100"> |
+|   <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/1bd6c827-34fa-4fa7-8c3a-8221aa8de84e" width="100" height="100">   | <img width="100" height="100" src="https://github.com/AiBiC-Data/togeball/assets/76275193/06262ddd-3d61-4bf4-a7d0-70b81b040a5a">   | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/60ed3425-b05a-439d-b1ec-c70d8cbf0f79" width="100" height="100"> | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/391726bf-c862-4753-a51d-2ff5443ee78b" width="100" height="100"> | <img src="https://github.com/AiBiC-Data/togeball/assets/76275193/a2ce8cf3-e0a1-48eb-b131-82dd07eaf906" width="100" height="100"> |
 
 
 
 ## 핵심 기능
 
 ### 매칭 시스템
-<img src="/uploads/df5967699187ce6d0a3ea2404ba48b92/matching.gif" width="1000" height="600">
-
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/623d47ff-a28b-4433-8695-5d8115d95d57" width="1000" height="600">
 - 매칭 
     - 프론트: 웹소켓을 이용한 통신, d3를 이용한 데이터 시각화 및 인터랙티브웹 구현
     - 백 : 유사도를 이용한 매칭 알고리즘 설계
@@ -81,7 +80,7 @@
 
 ### 채팅 시스템
 
-<img src="/uploads/ca21120ad75e06caaabe571a802c0820/chatting.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/108f5558-0ceb-4662-9fc6-cea134936f99" width="1000" height="600">
 
 - 채팅
     - 프론트: 웹소켓과 stomp 프로토콜을 이용한 통신, 이미지 전송 가능
@@ -95,20 +94,20 @@
 #### 매칭 시스템
 
 
-<img src="/uploads/df5967699187ce6d0a3ea2404ba48b92/matching.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/c431fa58-789d-4976-9ffd-24eaea08a81c" width="1000" height="600">
 
 - 매칭 클릭 시 매칭을 시도하는 사람들과의 사용자 태그 기반 매칭 적용
 - 상위 6개의 태그 애니메이션으로 표시
 - 스케줄링 시간에 따라 2~6인으로 구성된 채팅방 생성
 
-<img src="/uploads/2ab94611d4bb994e1bf37a266563ad14/matchingmodal.PNG" width="500" height="300">
-<img src="/uploads/a648637416590e434a7c2ae498485719/matchingchat.PNG" width="500" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/97d685ba-116a-4ce6-9332-8f18a2c90e7d" width="500" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/0819adc4-c292-44b5-ad42-ed81b2fd7fd2" width="500" height="300">
 
 - Chat GPT 이용하여 태그들 조합의 적절한 채팅방 이름 생성
 
 #### 모집 채팅방
 
-<img src="/uploads/14b3dee7bcadfd97d29e99271a3ab7c1/%EB%AA%A8%EC%A7%91%EC%B1%84%ED%8C%85%EB%B0%A9%EC%B0%B8%EC%97%AC.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/d09e2ea2-478f-46d4-beed-43f7b0364a00" width="1000" height="600">
 
 - 현재 활성화 된 채팅방 목록 제공
 - 경기 일자, 응원팀에 맞는 채팅방 찾는 필터 기능 제공
@@ -116,7 +115,7 @@
 
 #### 채팅방 생성
 
-<img src="/uploads/8a38c24551313b9dc6dd579ad23232be/recruitChatroom.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/f29203b9-db50-4a83-94a0-cd8b3269dada" width="1000" height="600">
 
 - 커스텀 주별 달력 활용하여 경기 선택
 - 경기에 맞는 응원팀 항목 제한
@@ -125,12 +124,12 @@
 #### 채팅방
 
 ##### 게임 채팅방 참여
-<img src="/uploads/5322f26a04c751b744dcf69d1441e952/gameChatroom.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/140ae564-e76d-4ce8-b9f4-6af669b1ac8f" width="1000" height="600">
 
 - 대화 참가자 모두 표시
 
 #### 나의 채팅방 확인
-<img src="/uploads/4680a18e1f3990b21d7d7687d4eeda74/alarm.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/3f0c175b-29d1-4c9c-8b4a-ea63bfd5d959" width="1000" height="600">
 
 - 나의 채팅방 목록 확인 및 채팅방 개별 알림
 - 최근 메시지 확인, 클릭 시 채팅방 이동
@@ -138,17 +137,17 @@
 #### 로그인 및 회원가입
 
 - 회원가입
-<img src="/uploads/0959f41a5deb7fd8995b558aee2c5772/signup.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/ca4574e9-7d55-43f5-85a0-6f8abc3c834b" width="1000" height="600">
 
 - 로그인
-<img src="/uploads/f1f53d6672fe7e218b4fcddf6b9022c5/email_login.gif" width="400" height="300">
-<img src="/uploads/fb439e7ccac61913c2493377879db3e7/kakao_login.gif" width="400" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/3ee639bc-a8bb-405c-bb81-b469a2c50e4b" width="400" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/6b1cde79-530a-4b5b-b823-9a401f37da14" width="400" height="300">
 
 
 #### 경기 캘린더
 
 - 월별/주별 캘린더
-<img src="/uploads/37ec483af70852f172e1fcfb0a68f41a/calender__2_.gif" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/0a471566-c10d-4772-8573-99bb43ab2f15" width="1000" height="600">
 
 
 ### 백엔드
@@ -156,55 +155,55 @@
 #### Swagger API 확인
 
 - 채팅방 API
-<img src="/uploads/39b925c9230cf4218184faea4646d67b/image__7_.png" width="400" height="200">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/f049b800-3b94-43aa-986d-ca3adebf7f83" width="400" height="200">
 
 - 매칭, 태그 API
-<img src="/uploads/1842a2aeb09d29ec8141fd9e94efd7c8/image__8_.png" width="400" height="200">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/7a4088e0-aa3c-429c-92f6-c2bebb3a6d0f" width="400" height="200">
 
 #### Postman API 확인
 
 - 게시판, 리그, 매칭, 알림 API
-<img src="/uploads/c89016184ee7c1c269ee4c6e4be3a4a4/post1.PNG" width="200" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/0a236f6b-f594-4ea8-ac5d-5d3764b21232" width="200" height="300">
 
 - 유저 API
-<img src="/uploads/e5fecafd100cdf4bdd914cfb9fb18350/post2.PNG" width="200" height="300">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/211be725-1c16-42e1-96fd-335bb95e156f" width="200" height="300">
 
 - 인증 API
-<img src="/uploads/45d2f1225ace9f34aab8a5d0576562ca/post3.PNG" width="300" height="200">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/aac74c42-96c3-444b-8a3c-883d218c1497" width="300" height="200">
 
 - 채팅방 API
-<img src="/uploads/17a2d71501b2298330aeefcbefe0028e/post4.PNG" width="200" height="400">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/0e847a49-027a-47c4-8dd6-2848ded90604" width="200" height="400">
 
 - 태그 API
-<img src="/uploads/1e338a96f1e9770ad113cc5d962b7c2d/post5.PNG" width="300" height="200">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/660b0205-e371-4b00-a043-fb193379cb10" width="300" height="200">
 
 ### 인프라
 
 #### 아키텍처 설계
 
-<img src="/uploads/9af32a0aadb0bc9f343859956785f79c/archi.png" width="800" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/805f8337-930c-47ae-8beb-be53e65a27fe" width="800" height="600">
 
 #### 모니터링 구현
 
 - 시스템 모니터링
-<img src="/uploads/04a5e0fea5de942bf477bb977934309b/node.PNG" width="800" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/1f59ad8d-a6a0-43b1-a4cd-010325fa27e5" width="800" height="600">
 
 
 - 젠킨스 모니터링
-<img src="/uploads/c22c5c25991da292e8dd3aedbb24c9fe/jen.PNG" width="800" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/899d9827-d996-4193-837e-953ed7bc18aa" width="800" height="600">
 
 
 - 엔진엑스 모니터링
-<img src="/uploads/e2d4b44087215aa45301455605559f5e/ngix.PNG" width="800" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/e61bb6be-603a-4f6c-b478-7f4f8f33cd27" width="800" height="600">
 
 ## 기타 산출물
 
 
 #### ERD
-<img src="/uploads/2dc4599f4f4bf8789c63aa43821e13fd/erd.png" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/8644e8e8-69c5-420a-8815-26e275a5f2f4" width="1000" height="600">
 
 #### Figma 화면 설계서
-<img src="/uploads/5e8cb2e4a208929f44bcd9be87b465ee/figmain.png" width="1000" height="600">
+<img src="https://github.com/AiBiC-Data/togeball/assets/76275193/22f8702d-1502-48fb-8e00-4657cf96f08e" width="1000" height="600">
 
 
 #### 회고
